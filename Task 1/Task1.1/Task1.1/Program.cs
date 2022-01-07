@@ -59,8 +59,9 @@ namespace Task1._1
                     break;
             }
         }
-            static void Task1()
-            {
+            //<Task 1>
+        static void Task1()
+             {
                 int lenght = 0, width = 0;
                 do
                 {
@@ -77,12 +78,13 @@ namespace Task1._1
                 while (width <= 0 && (!int.TryParse(Console.ReadLine(), out width)));
 
                 Console.WriteLine($"Area is: { Rectangle(lenght, width)} ");
-            }
+             }
 
             static int Rectangle(int x, int y) => x * y;
-
-            static void Triangle()
-            {
+        //</Task 1>
+        //<Task 2>
+        static void Triangle()
+             {
                 int number = 0;
                 do
                 {
@@ -95,9 +97,10 @@ namespace Task1._1
                 {
                     Console.WriteLine(new String('*', i + 1));
                 }
-            }
-
-            static void Another_Triangle()
+             }
+        //</Task 2>
+        //<Task 3>
+        static void Another_Triangle()
             {
                 int number = 0;
                 do
@@ -113,7 +116,9 @@ namespace Task1._1
                     Console.WriteLine(p + new String('*', 1 + i * 2));
                 }
             }
-            static void Xmas_Tree()
+        //</Task 3>
+        //<Task 4>
+        static void Xmas_Tree()
             {
                 Console.WriteLine("Input number of triangles:");
                 if (int.TryParse(Console.ReadLine(), out var n) && n > 0)
@@ -131,7 +136,9 @@ namespace Task1._1
                 }
 
             }
-            static void Sum_Of_Numbers()
+        //</Task 4>
+        //<Task 5>
+        static void Sum_Of_Numbers()
             {
                 int[] mass = new int[1000];
                 int summ = 0;
@@ -146,7 +153,9 @@ namespace Task1._1
                 }
                 Console.WriteLine($"number is: { summ }");
             }
-            static void Font_Adjustment()
+        //</Task 5>
+        //<Task 6>
+        static void Font_Adjustment()
             {
                 bool[] font = new bool[3];
                 font[0] = false;
@@ -191,7 +200,9 @@ namespace Task1._1
                 }
                 while (number != 4);
             }
-            static void Array_Processing()
+        //</Task 6>
+        //<Task 7>
+        static void Array_Processing()
             {
                 int[] arr = new int[20];
                 Random rand = new Random();
@@ -249,7 +260,9 @@ namespace Task1._1
                 }
                 Console.WriteLine($"Максимальное значение { min }\n");
             }
-            static void NoP()
+        //</Task 7>
+        //<Task 8>
+        static void NoP()
             {
                 //int[,,] array = { { { -1, -1, -1 }, { 4, 5, 6 } } };
                 int[,,] array = new int[3, 3, 3];
@@ -281,7 +294,9 @@ namespace Task1._1
                 }
                 
             }
-            static void Non_Negative_Sum()
+        //</Task 8>
+        //<Task 9>
+        static void Non_Negative_Sum()
             {
                 int[] array = new int[10];
                 int counter = 0;
@@ -295,7 +310,9 @@ namespace Task1._1
                 }
                 Console.WriteLine($"Сумма положительных чисел массива = {counter}");
             }
-            static void SeconD_Aray()
+        //</Task 9>
+        //<Task 10>
+        static void SeconD_Aray()
             {
                 int[,] numbers = { { 1, 2, 3 }, { 4, 5, 6 }, { 7, 8, 9 } };
                 int counter = 0;
@@ -315,7 +332,8 @@ namespace Task1._1
                 }
                 Console.Write($"Сумма членов массива, стоящих на четных позициях = {counter}");
             }
-        
+        //</Task 10>
+
     }
 
 }
