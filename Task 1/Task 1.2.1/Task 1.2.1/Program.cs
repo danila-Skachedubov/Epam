@@ -17,7 +17,7 @@ namespace Task_1._2._1
                 summofsymb += word.Length;
                 Console.WriteLine($"{word}");
             }
-            double averageQuantity = Math.Round(summofsymb / (double)words.Length, 0);
+            double averageQuantity = Math.Round(summofsymb / (double)words.Length, 0);//задание выполнено с округлением до целого числа
             Console.Write($"Среднее число символов в слове: { averageQuantity } ");
         }
         static string Replace_Punctuation(string text)
