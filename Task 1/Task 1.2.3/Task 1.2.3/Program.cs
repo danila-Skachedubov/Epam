@@ -32,7 +32,7 @@ namespace Task_1._2._3_
                 }
                 check = false;
               }        
-            Console.Write("Количество слов с маленько буквы= " + wordCounter);
+            Console.Write("Количество слов с маленькой буквы= " + wordCounter);
         }
         static string Replace_Punctuation(string text)
         {
