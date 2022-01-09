@@ -18,11 +18,10 @@ namespace Task1._2._2
                     str3 += i;
                 else
                 {
-               
                     str3 += i;
                     str3 += i;
                 }
-            Console.WriteLine($"Результат: { str3 }");
+            Console.WriteLine($"Результат:{ str3 }");
         }
     }
 }
