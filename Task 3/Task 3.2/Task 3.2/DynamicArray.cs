@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Task_3._2
 {
-    class DynamicArray<T>: ICloneable, IEnumerable, IEnumerable<T>
+    public class DynamicArray<T>: ICloneable, IEnumerable, IEnumerable<T>
     {
         private T[] array;
 
@@ -15,7 +15,7 @@ namespace Task_3._2
 
         private int length;
 
-        private DynamicArray()
+        public DynamicArray()
         {
             array = new T[8];
         }
@@ -218,7 +218,7 @@ namespace Task_3._2
                 return result;
             }
 
-            public void Reset() => position = -1;
+            public void Reset() => position = -1;//возвращаем счеткчик на место изначальное
         }
         
     }
