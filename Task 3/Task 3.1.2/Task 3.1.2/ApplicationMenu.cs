@@ -40,6 +40,7 @@ namespace Task_3._1._2
                         break; 
                         }
                         newTextAnalizator.TextSeparation();
+                        Console.WriteLine("Текст введен");
                         break;
                     case 2:
                         newTextAnalizator.FindWord();
