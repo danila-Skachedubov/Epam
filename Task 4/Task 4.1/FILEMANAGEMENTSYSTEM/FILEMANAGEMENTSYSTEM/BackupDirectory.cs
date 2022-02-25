@@ -13,7 +13,7 @@ namespace FILEMANAGEMENTSYSTEM
         public static void FindDirectory(string _logDirectory, string _sourceDirectory)
 
         {
-            Console.WriteLine("Введите один из нежеуказанных доступных дат для бэкапа:");
+            Console.WriteLine("Введите один из вышеуказанных доступных дат для бэкапа:");
             var logDirectory = new DirectoryInfo(_logDirectory + Console.ReadLine());
             if (logDirectory.Exists)
             {

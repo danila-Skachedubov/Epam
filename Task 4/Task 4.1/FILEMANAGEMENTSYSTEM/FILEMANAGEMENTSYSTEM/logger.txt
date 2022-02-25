@@ -564,3 +564,51 @@
 
 2022-02-25 15:34:59.062 +03:00 [DBG] Запись в Log  25.02.2022 15:34:59
 
+2022-02-25 17:41:13.169 +03:00 [DBG] Запись в Log начата 25.02.2022 17:41:13
+
+2022-02-25 17:41:22.033 +03:00 [DBG] Изменеие Changed в элементе  Text7.txt по пути ..\..\..\working_folders\Text7.txt
+
+2022-02-25 17:41:30.179 +03:00 [DBG] Изменеие Changed в элементе  Text7.txt по пути ..\..\..\working_folders\Text7.txt
+
+2022-02-25 17:41:56.498 +03:00 [DBG] Изменеие Changed в элементе  Text7.txt по пути ..\..\..\working_folders\Text7.txt
+
+2022-02-25 17:42:16.331 +03:00 [DBG] Запись в Log  25.02.2022 17:42:16
+
+2022-02-25 17:42:30.811 +03:00 [DBG] Изменеие Changed в элементе  gegeg.txt по пути ..\..\..\working_folders\gegeg.txt
+
+2022-02-25 17:42:30.830 +03:00 [DBG] Изменеие Changed в элементе  gegeg.txt по пути ..\..\..\working_folders\gegeg.txt
+
+2022-02-25 17:42:30.843 +03:00 [DBG] Изменеие Changed в элементе  gegeg.txt по пути ..\..\..\working_folders\gegeg.txt
+
+2022-02-25 17:42:30.851 +03:00 [DBG] Изменеие Changed в элементе  gngn.txt по пути ..\..\..\working_folders\gngn.txt
+
+2022-02-25 17:42:30.862 +03:00 [DBG] Изменеие Changed в элементе  gngn.txt по пути ..\..\..\working_folders\gngn.txt
+
+2022-02-25 17:42:30.871 +03:00 [DBG] Изменеие Changed в элементе  gngn.txt по пути ..\..\..\working_folders\gngn.txt
+
+2022-02-25 17:42:30.881 +03:00 [DBG] Изменеие Changed в элементе  s.txt по пути ..\..\..\working_folders\s.txt
+
+2022-02-25 17:42:30.890 +03:00 [DBG] Изменеие Changed в элементе  s.txt по пути ..\..\..\working_folders\s.txt
+
+2022-02-25 17:42:30.898 +03:00 [DBG] Изменеие Changed в элементе  s.txt по пути ..\..\..\working_folders\s.txt
+
+2022-02-25 17:42:30.905 +03:00 [DBG] Изменеие Changed в элементе  Text7.txt по пути ..\..\..\working_folders\Text7.txt
+
+2022-02-25 17:42:30.912 +03:00 [DBG] Изменеие Changed в элементе  Text7.txt по пути ..\..\..\working_folders\Text7.txt
+
+2022-02-25 17:42:30.919 +03:00 [DBG] Изменеие Changed в элементе  Text7.txt по пути ..\..\..\working_folders\Text7.txt
+
+2022-02-25 17:42:30.927 +03:00 [DBG] Изменеие Changed в элементе  крркркркрке.txt по пути ..\..\..\working_folders\крркркркрке.txt
+
+2022-02-25 17:42:30.935 +03:00 [DBG] Изменеие Changed в элементе  крркркркрке.txt по пути ..\..\..\working_folders\крркркркрке.txt
+
+2022-02-25 17:42:30.942 +03:00 [DBG] Изменеие Changed в элементе  крркркркрке.txt по пути ..\..\..\working_folders\крркркркрке.txt
+
+2022-02-25 17:42:30.949 +03:00 [DBG] Изменеие Changed в элементе  уупп.txt по пути ..\..\..\working_folders\уупп.txt
+
+2022-02-25 17:42:30.956 +03:00 [DBG] Изменеие Changed в элементе  уупп.txt по пути ..\..\..\working_folders\уупп.txt
+
+2022-02-25 17:42:30.964 +03:00 [DBG] Изменеие Changed в элементе  уупп.txt по пути ..\..\..\working_folders\уупп.txt
+
+2022-02-25 17:42:43.675 +03:00 [DBG] Изменеие Changed в элементе  крркркркрке.txt по пути ..\..\..\working_folders\крркркркрке.txt
+

@@ -38,9 +38,7 @@ namespace FILEMANAGEMENTSYSTEM
             watcher.Error += OnError;
             watcher.EnableRaisingEvents = true;
             watcher.IncludeSubdirectories = true;
-            Console.ReadLine();
-           
-            
+            Console.ReadLine();           
         }
         public static void OnChanged(object sender, FileSystemEventArgs e)
         {
