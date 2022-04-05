@@ -6,12 +6,12 @@
     height: 300px;
     border: 2px solid blue;
 }
-.title_registration{
-   
+.title_registration{  
     color: white;
 }
 .header_top {
     width: 400px;
     height: 60px;
     padding: 1px 10px 1px 15px;
+    align-items: center;
 }
