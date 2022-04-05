@@ -1,2 +1,13 @@
-﻿body {
+﻿
+.menu {
+    width: 200px;
+    background-color: #FFE473;
+    list-style-type: none;
+    border-radius: 10px;
+    border: 1px solid black;
+    box-shadow: 5px 5px 0px #A52321;
+}
+.punkt_menu {
+    color: #A52321;
+    padding: 4px 0px;
 }
