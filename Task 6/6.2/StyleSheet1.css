@@ -11,7 +11,31 @@
 }
 .header_top {
     width: 400px;
-    height: 60px;
+    height: 65px;
     padding: 1px 10px 1px 15px;
     align-items: center;
+}
+.header_down {
+    padding:20px;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    color: white;
+}
+.email_field {
+    display: flex;
+    flex-direction: column;
+}
+.down_input {
+    margin-top: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.send {
+    height: 30px;
+    width: 90px;
+    margin-top: 30px;
+    background-color: yellow;
+    border: none;
 }
