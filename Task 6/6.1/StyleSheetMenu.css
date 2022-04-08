@@ -7,7 +7,14 @@
     border: 1px solid black;
     box-shadow: 5px 5px 0px #A52321;
 }
+<<<<<<< Updated upstream
 .punkt_menu {
     color: #A52321;
     padding: 4px 0px;
+=======
+menu {
+    width: 200px;
+    height: 200px;
+    background-color: #B2FFCC;
+>>>>>>> Stashed changes
 }
