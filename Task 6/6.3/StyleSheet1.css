@@ -1,0 +1,43 @@
+﻿* {
+    margin: 0;
+    padding: 0;
+    
+}
+
+.triangle {
+    position: relative;
+    width: 0;
+    height: 0;
+    border: 50px solid transparent;
+    border-bottom: 60px solid #1A9DD5;
+    margin: auto;
+    margin-top: 10px;
+}
+    .triangle::before {
+        z-index: -1;
+        content: "";
+        position: relative;
+        left: -56px;
+        top: -25px;
+        width: 0;
+        height: 0;
+        border: 55px solid transparent;
+        border-bottom: 60px solid #98DAF5;
+    }
+
+.rectangle {
+    z-index: -2;
+    height: 80px;
+    margin: 40px;
+    margin-top: -10px;
+    position: relative;
+    text-align: center;
+    background: #1A9DD5;
+    border: #98DAF5 5px solid;
+}
+
+p {
+    margin-top: 25px;
+    color: white;
+    font-size:20px;
+}
